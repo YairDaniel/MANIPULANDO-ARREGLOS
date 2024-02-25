@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34407.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MANIPULANDO ARREGLOS", "MANIPULANDO ARREGLOS\MANIPULANDO ARREGLOS.csproj", "{BD862116-73A8-49E3-AFFC-C84C1877E76D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD862116-73A8-49E3-AFFC-C84C1877E76D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD862116-73A8-49E3-AFFC-C84C1877E76D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD862116-73A8-49E3-AFFC-C84C1877E76D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD862116-73A8-49E3-AFFC-C84C1877E76D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B932CCC6-6283-4F14-9E25-30271907F0AD}
+	EndGlobalSection
+EndGlobal
